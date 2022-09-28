@@ -1,0 +1,15 @@
+.navbar-dark .navbar-nav .nav-link {
+    font-weight: 700;
+    color: rgb(255 255 255);
+}
+
+@media only screen and (min-width:390px) and (max-width:1000px) {
+
+    #navbar-logo{
+        float:right;
+        margin-top: 0;
+    }
+    #navbarTogglerDemo01{
+        padding-top: 5px;
+    }
+}
